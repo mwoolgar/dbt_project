@@ -1,5 +1,7 @@
 version: 2
 
+#This file is used for testing
+
 models:
   - name: stg_customers
     columns: 
